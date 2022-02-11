@@ -5,13 +5,12 @@ Welcome to my GitHub page.
 - 🌱 I’m currently learning Python and TrailHead Salesforce.
 - 📫 How to reach me:
 
-
 ## **GitHub Estatísticas**
 <div align="center">
   <a href="https://github.com/PhabloSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhabloSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhabloSouza&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PhabloSouza&theme=dark" />
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=PhabloSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhabloSouza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=PhabloSouza&theme=dark" />
 </div>
  <br/>
   
@@ -22,15 +21,12 @@ Welcome to my GitHub page.
   <img align="center" alt="Phablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Phablo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Phablo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Phablo-VisualStudioCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-<br>
-   
+  <img align="center" alt="Phablo-VisualStudioCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
  </div>
  
  ##
  
- ## **My Social Networks**
+ ## **Minhas Redes.**
 
 <p align="left">
  <a href="phablogm@gmail.com" alt="Gmail" target="_blank">
