@@ -1,11 +1,6 @@
 ## Oiii eu sou o Phablo Souza, estudante de programação e tecnologia!
-<\br>
-### Hi there 👋
-
-My name is Phablo Souza.
 
 Welcome to my GitHub page.
-<br>
 
 - 🌱 I’m currently learning Python and TrailHead Salesforce.
 - 📫 How to reach me:
