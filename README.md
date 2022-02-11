@@ -1,13 +1,36 @@
 ## Oiii eu sou o Phablo Souza, estudante de programação e tecnologia!
+<\br>
+### Hi there 👋
+
+My name is Phablo Souza.
+
+Welcome to my GitHub page.
+<br>
+
+- 🌱 I’m currently learning Python and TrailHead Salesforce.
+- 📫 How to reach me:
+
+
+## **GitHub Estatísticas**
 <div align="center">
   <a href="https://github.com/PhabloSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhabloSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhabloSouza&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PhabloSouza&theme=dark" />
 </div>
- <div style="display: inline_block"><br>
+ <br/>
+  
+ <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Phablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Phablo-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
   <img align="center" alt="Phablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Phablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Phablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Phablo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Phablo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Phablo-VisualStudioCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+
+<br>
+   
  </div>
  
  ##
@@ -45,7 +68,5 @@
   </p>
 
 <br>
- 
-  ![Snake animation](https://github.com/PhabloSouza/PhabloSouza/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
