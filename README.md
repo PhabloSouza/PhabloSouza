@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page.
 
-- 🌱 I’m currently learning Python and TrailHead Salesforce.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me:
 
 ## **GitHub Estatísticas**
